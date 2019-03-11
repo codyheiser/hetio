@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552344391172.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3241897446",
+    "id" : "47174B52",
+    "lastKnownWriteTime" : 1552346301,
+    "last_content_update" : 1552346301283,
+    "path" : "~/hetio/CNH_DWPC_analysis.r",
+    "project_path" : "CNH_DWPC_analysis.r",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
