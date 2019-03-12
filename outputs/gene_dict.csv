@@ -1,0 +1,28 @@
+,ID,name,query
+0,Gene::10521,DDX17,query 1
+1,Gene::9645,MICAL2,PC 1
+2,Gene::57599,WDR48,query 1
+3,Gene::4924,NUCB1,query 1
+4,Gene::3683,ITGAL,random
+5,Gene::23007,PLCH1,random
+6,Gene::7712,ZNF157,random
+7,Gene::6745,SSR1,random
+8,Gene::84502,JPH4,query 1
+9,Gene::1347,COX7A2,random
+10,Gene::23246,BOP1,PC 1
+11,Gene::1964,EIF1AX,random
+12,Gene::1376,CPT2,query 1
+13,Gene::8668,EIF3I,random
+14,Gene::3831,KLC1,query 1
+15,Gene::7297,TYK2,query 1
+16,Gene::60528,ELAC2,PC 1
+17,Gene::80256,FAM214B,query 1
+18,Gene::7030,TFE3,query 1
+19,Gene::92856,IMP4,PC 1
+20,Gene::11040,PIM2,PC 1
+21,Gene::22827,PUF60,random
+22,Gene::27032,ATP2C1,random
+23,Gene::8260,NAA10,PC 1
+24,Gene::1374,CPT1A,query 1
+25,Gene::10180,RBM6,random
+26,Gene::9583,ENTPD4,query 1

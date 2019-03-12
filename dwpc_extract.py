@@ -40,7 +40,7 @@ def get_all_DWPCs(graph, node_list, possible_metapaths):
     '''
     paths = {'pair':[], 'source':[], 'target':[], 'metapath':[], 'paths':[], 'DWPC':[]} # init output dictionary
     for pair in list(itertools.combinations(node_list, 2)): # iterate through possible pairs of nodes of interest
-        print('Analyzing paths between nodes {} and {}'.format(pair[0].get_id()[1], pair[1].get_id()[1])) # status update
+        print('Analyzing paths between nodes {} and {}'.format(pair[0].get_id()[1], pair[1].get_id()[1]), flush=True) # status update
         for meta in possible_metapaths: # iterate through metapaths of len<=max_length between source and target genes
             path = paths_between(graph=graph, source=pair[0], target=pair[1], metapath=meta) # get all paths between source and target of metapath type
             if len(path)!=0: # if that metapath exists between the source and target genes, append results to dictionary
